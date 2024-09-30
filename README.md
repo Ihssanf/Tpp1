@@ -83,6 +83,12 @@ Le projet contient les classes suivantes :
 
 Figure 11:Récupération des données
 
+https://github.com/user-attachments/assets/f10959fa-fbe2-45db-85c5-fcb8eaf122d8
+
+
+
+
+
 
 
 
